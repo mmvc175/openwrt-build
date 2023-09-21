@@ -1,6 +1,6 @@
-src-git packages https://ghproxy.com/https://github.com/immortalwrt/packages.git;openwrt-23.05
-src-git luci https://ghproxy.com/https://github.com/immortalwrt/luci.git;openwrt-23.05
-src-git routing https://ghproxy.com/https://github.com/openwrt/routing.git;openwrt-23.05
-src-git telephony https://ghproxy.com/https://github.com/openwrt/telephony.git;openwrt-23.05
-src-git smpackage https://ghproxy.com/https://github.com/kenzok8/small-package
-src-git sundaqiang https://ghproxy.com/https://github.com/sundaqiang/openwrt-packages
+src-git packages https://github.com/immortalwrt/packages.git;openwrt-23.05
+src-git luci https://github.com/immortalwrt/luci.git;openwrt-23.05
+src-git routing https://github.com/openwrt/routing.git;openwrt-23.05
+src-git telephony https://github.com/openwrt/telephony.git;openwrt-23.05
+src-git smpackage https://github.com/kenzok8/small-package
+src-git sundaqiang https://github.com/sundaqiang/openwrt-packages
