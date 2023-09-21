@@ -17,3 +17,5 @@ sed -i 's/192.168.1.1/192.168.1.6/g' openwrt/package/base-files/files/bin/config
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git smpackage https://ghproxy.com/https://github.com/kenzok8/small-package' >>feeds.conf.default
+echo 'src-git sundaqiang https://ghproxy.com/https://github.com/sundaqiang/openwrt-packages' >>feeds.conf.default
