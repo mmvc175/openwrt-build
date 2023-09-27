@@ -27,4 +27,4 @@ sed -i 's/CONFIG_PACKAGE_luci-app-ssr-plus=y/# CONFIG_PACKAGE_luci-app-ssr-plus 
 sed -i 's/# CONFIG_PACKAGE_luci-app-ttyd is not set/CONFIG_PACKAGE_luci-app-ttyd=y/g' .config
 sed -i 's/# CONFIG_PACKAGE_luci-app-vlmcsd/CONFIG_PACKAGE_luci-app-vlmcsd=y/g' .config
 sed -i 's/# CONFIG_PACKAGE_luci-app-wolplus is not set/CONFIG_PACKAGE_luci-app-wolplus=y/g' .config
-#sed -i 's/# CONFIG_PACKAGE_luci-app-wechatpush is not set/CONFIG_PACKAGE_luci-app-wechatpush=y/g' .config
+sed -i 's/# CONFIG_PACKAGE_luci-app-wechatpush is not set/CONFIG_PACKAGE_luci-app-wechatpush=y/g' .config
